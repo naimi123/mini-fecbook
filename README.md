@@ -1,4 +1,4 @@
-# 🌐 Mini Facebook App
+ Mini Facebook App
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-success" alt="Status">
@@ -9,7 +9,7 @@ A responsive full-stack social media web application inspired by Facebook, built
 
 ---
 
-## 🛠️ Tech Stack & Languages
+ Tech Stack & Languages
 
 <div align="center">
 
@@ -23,19 +23,17 @@ A responsive full-stack social media web application inspired by Facebook, built
 
 ---
 
-## ✨ Features
-
-* **🔐 User Authentication:** Secure registration and login system.
-* **📱 Interactive Interface:** Clean, mobile-friendly design styled with Bootstrap components.
-* **⚡ Dynamic Content:** Powered by PHP to handle data storage and retrieval smoothly.
-* **🗃️ Database Integration:** Relational database structured for managing users and posts.
+ Features
+ User Authentication: Secure registration and login system. Interactive Interface:** Clean, mobile-friendly design styled with Bootstrap components.
+ Dynamic Content: Powered by PHP to handle data storage and retrieval smoothly.
+Database Integration:** Relational database structured for managing users and posts.
 
 ---
 
-## ⚙️ How to Run Locally
+ How to Run Locally
 
 Follow these steps to run the project on your local machine:
 
-1. **📥 Clone the repository:**
+1.  Clone the repository:**
    ```bash
    git clone [https://github.com/naimi123/mini-fecbook.git](https://github.com/naimi123/mini-fecbook.git)
