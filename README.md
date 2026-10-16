@@ -2,8 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-success" alt="Status">
-  <img src="https://img.shields.io/badge/Language-PHP%20%7C%20HTML%20%7C%20CSS-blue" alt="Tech">
-  <img src="https://img.shields.io/badge/Database-MySQL-orange" alt="Database">
+  <img src="https://img.shields.io/badge/Design-Responsive-orange" alt="Design">
 </p>
 
 A responsive full-stack social media web application inspired by Facebook, built to demonstrate core web development and database management skills.
@@ -12,9 +11,13 @@ A responsive full-stack social media web application inspired by Facebook, built
 
 ## 🛠️ Tech Stack
 
-* **🎨 Front-End:** HTML5, CSS3, Bootstrap (for responsive UI/UX)
-* **⚙️ Back-End:** PHP (Server-side logic and routing)
-* **🗄️ Database:** MySQL (User data and interaction management)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
 ---
 
